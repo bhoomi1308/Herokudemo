@@ -9,3 +9,13 @@ scipy>=0.15.1
 scikit-learn>=0.18
 matplotlib>=1.4.3
 pandas>=0.19
+
+.git
+.idea
+projectapp
+projectname
+rango
+db.sqlite3
+manage.py
+populate_rango.py
+requirements.txt
